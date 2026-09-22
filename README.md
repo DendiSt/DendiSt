@@ -2,9 +2,9 @@
   <h1>Hi there, I'm Dendi Sutiya! 👨‍💻</h1>
   <h3>Junior Web Developer | TRPL Student at Politeknik Negeri Subang</h3>
   
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG_KAMU)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN_KAMU)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/denst04_)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendi-sutiya-86588334b/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dendist0402@gmail.com)
 </div>
 
 ---
