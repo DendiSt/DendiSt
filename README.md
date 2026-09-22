@@ -42,7 +42,7 @@ I'm an IT enthusiast with a huge passion for **Full-Stack Web Development, Mobil
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DendiSt&show_icons=true&theme=tokyonight&hide_border=true" alt="Dendi's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DendiSt&show_icons=true&theme=tokyonight&hide_border=true" alt="Dendi's GitHub Stats" />
 </p>
 
 <p align="center">
