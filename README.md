@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Dendi Sutiya! 👨‍💻</h1>
-  <h3>Junior Web Developer | TRPL Student at Politeknik Negeri Subang</h3>
+  <h3>Junior Web Developer | Software Engineering Technology Student at Politeknik Negeri Subang</h3>
   
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/denst04_)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendi-sutiya-86588334b/)
@@ -13,7 +13,7 @@
 
 I'm an IT enthusiast with a huge passion for **Full-Stack Web Development, Mobile Apps, and IoT Integrations**. Currently, I'm focusing on building scalable digital solutions and sharpening my skills to become a professional Full-Stack Developer.
 
-- 🎓 **Education:** Software Engineering Technology (TRPL) at Polsub.
+- 🎓 **Education:** Software Engineering Technology at Politeknik Negeri Subang.
 - 💻 **Currently Learning:** Deep dive into Next.js architectures & Flutter mobile environments.
 - 🔧 **Hardware & IoT:** Tinkering with C++ for smart integrations.
 - 🚀 **Goal:** To create impactful technology that bridges hardware and software seamlessly.
@@ -41,8 +41,10 @@ I'm an IT enthusiast with a huge passion for **Full-Stack Web Development, Mobil
 
 ### 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DendiSt&show_icons=true&theme=tokyonight&hide_border=true" alt="Dendi's GitHub Stats" />
-  <br><br>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DendiSt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Dendi's Trophies" />
-</div>
+</p>
