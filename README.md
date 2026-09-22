@@ -39,7 +39,6 @@ I'm an IT enthusiast with a huge passion for **Full-Stack Web Development, Mobil
 
 ---
 
-### 📈 GitHub Analytics
 
 ### 📈 GitHub Analytics
 
