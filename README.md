@@ -50,6 +50,4 @@ I'm an IT enthusiast with a huge passion for **Full-Stack Web Development, Mobil
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DendiSt&layout=compact&theme=tokyonight&hide_border=true" alt="Dendi's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DendiSt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Dendi's Trophies" />
-</p>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=DendiSt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Dendi's Trophies" /> -->
